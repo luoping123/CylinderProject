@@ -1,4 +1,5 @@
 # CylinderProject
+因项目可能涉密，**项目主要代码未上传**，该项目只起到展示笔者有对应的学习和开发能力
 ![Image text](https://github.com/luoping123/CylinderProject/blob/main/CylinderSystemImage/CylinderSystem%20(1).jpg)
 ![Image text](https://github.com/luoping123/CylinderProject/blob/main/CylinderSystemImage/CylinderSystem%20(2).jpg)
 ![Image text](https://github.com/luoping123/CylinderProject/blob/main/CylinderSystemImage/CylinderSystem%20(3).jpg)
